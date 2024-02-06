@@ -1,7 +1,6 @@
 [programs.localnet]
 instruments = "instruments11111111111111111111111111111111"
-dex = "Dex1111111111111111111111111111111111111111"
-
+dex = "Dex1111111111111111111111122222222
 [registry]
 url = "https://anchor.projectserum.com"
 
